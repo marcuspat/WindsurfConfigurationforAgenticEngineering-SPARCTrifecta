@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/43a5d303-0a28-4cb0-b935-4be4b643ad0c)
 
-# WindsurfConfigurationforAgenticEngineering-SPARCTrifecta
+# WindsurfConfigurationforAgenticEngineering-SPARCTrifecta - Made With Claude
 Windsurf Configuration for Agentic Engineering &amp; SPARC Trifecta
 
 *Harness Windsurf's Superior Agentic Capabilities for SPARC Methodology*
